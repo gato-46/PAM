@@ -1,9 +1,11 @@
-# PAM
-**우리FISA 클라우드엔지니어링 Linux PAM 학습**
+# PAM 💻
+**우리FISA 클라우드엔지니어링 Linux PAM 학습📝**
 
-**PAM(Pluggable Authentication Modules) 라는 리눅스 시스템에서 사용자의 인증을 담당하는 모듈을 사용하여 비밀번호를 8자리 이상으로 규제**    
+**날짜 : 2024-09-20**
 
-**조건**
+**목표 : PAM(Pluggable Authentication Modules) 라는 리눅스 시스템에서 사용자의 인증을 담당하는 모듈을 사용하여 비밀번호를 8자리 이상으로 규제 및 학습**    
+
+**조건📌**
 - **myserver03 새로 생성 후 작업**
 - **ip 고정 10.0.2.21**
 
@@ -80,7 +82,7 @@ sudo passwd username
 
 ![image](https://github.com/user-attachments/assets/154f41e2-3370-4511-b6a1-afd565e32517)
 
-**실행결과**
+**실행결과📊**
 
 ```bash
 입력 - 결과
