@@ -1,6 +1,12 @@
 # PAM 💻
 **Linux PAM 학습📝**
-<br/><br/>
+
+## 👨‍💻Team
+
+|<img src="https://avatars.githubusercontent.com/u/139302518?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/78792358?v=4" width="100" height="100"/>|
+|:-:|:-:|
+|곽병찬<br/>[@gato-46](https://github.com/gato-46)|박현우<br/>[@smartcow99](https://github.com/smartcow99)|
+
 **날짜 : 2024-09-20**
 <br/><br/>
 **목표 : PAM(Pluggable Authentication Modules) 라는 리눅스 시스템에서 사용자의 인증을 담당하는 모듈을 사용하여 비밀번호를 8자리 이상으로 규제 및 학습**    
